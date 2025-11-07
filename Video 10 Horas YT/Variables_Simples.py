@@ -16,3 +16,8 @@ print(Bienvenida)
 #Operadores de Pertenencia
 print("bienvenido" in Bienvenida)
 print("bienvenido" not in Bienvenida)
+
+
+string = "Hola"
+verificacion_string = "la" in string
+print(verificacion_string)
